@@ -1,2 +1,2 @@
 # runway-capacity-calculator
-Calculates airport runway capacity
+A web-based app to calculate airport runway capacity
