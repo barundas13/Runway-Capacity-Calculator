@@ -4,7 +4,6 @@ import numpy as np
 
 def app():
     st.header('Airport Runway Capacity')
-    st.write('Made by Barun Das')
 
     with (st.form(key='runway_capacity')):
         # Input columns for aircraft data
